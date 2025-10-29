@@ -1,0 +1,1 @@
+fastapi\nuvicorn\nopenai\ngoogle-cloud-vision\naiohttp\naiofiles\nasyncpg\npython-multipart\npydantic\nrequests\nPillow
