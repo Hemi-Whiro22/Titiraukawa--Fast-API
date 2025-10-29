@@ -1,1 +1,11 @@
-fastapi\nuvicorn\nopenai\ngoogle-cloud-vision\naiohttp\naiofiles\nasyncpg\npython-multipart\npydantic\nrequests\nPillow
+fastapi
+uvicorn
+openai
+google-cloud-vision
+aiohttp
+aiofiles
+asyncpg
+python-multipart
+pydantic
+requests
+Pillow
